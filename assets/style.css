@@ -1,0 +1,21 @@
+#biru{
+    background-color: blue;
+    color: white;
+}
+.jumbotron{
+    background-image: url("../image/banner1.png");
+    background-size: cover;
+    padding-bottom: 500px;
+}
+
+@media (min-width: 992px){
+    .jumbotron{
+        margin-top: -60px;
+    }
+}
+@media (min-width: 1400px) { 
+    
+ }
+.bb{
+    color: white;
+}
